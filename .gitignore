@@ -1,6 +1,3 @@
-# Prerequisites
-*.d
-
 # Compiled Object files
 *.slo
 *.lo
@@ -10,12 +7,6 @@
 # Precompiled Headers
 *.gch
 *.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
 
 # Compiled Dynamic libraries
 *.so
@@ -37,8 +28,6 @@
 *.out
 *.app
 
-# debug information files
-*.dwo
 # Data files - не добавлять в репозиторий
 *.json
 !data/example_valid.json  # исключение: только этот файл можно
