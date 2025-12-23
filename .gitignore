@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+# Data files - не добавлять в репозиторий
+*.json
+!data/example_valid.json  # исключение: только этот файл можно
